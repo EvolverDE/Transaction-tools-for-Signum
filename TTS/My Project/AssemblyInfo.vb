@@ -10,7 +10,7 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("Transaction tools for Signum")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyCompany("The Signum Community")>
 <Assembly: AssemblyProduct("Transaction tools for Signum")>
 <Assembly: AssemblyCopyright("Copyright ©  2022 The Signum Community")>
 <Assembly: AssemblyTrademark("")>
