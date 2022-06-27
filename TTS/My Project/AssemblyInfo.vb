@@ -1,4 +1,5 @@
-﻿Imports System
+﻿Imports System.Resources
+Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
@@ -9,13 +10,13 @@ Imports System.Runtime.InteropServices
 ' Werte der Assemblyattribute überprüfen
 
 <Assembly: AssemblyTitle("Transaction tools for Signum")>
-<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyDescription("simple tools to sign transactions offline")>
 <Assembly: AssemblyCompany("The Signum Community")>
 <Assembly: AssemblyProduct("Transaction tools for Signum")>
 <Assembly: AssemblyCopyright("Copyright ©  2022 The Signum Community")>
 <Assembly: AssemblyTrademark("")>
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(True)>
 
 'Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird.
 <Assembly: Guid("ce182626-b2cd-4b7a-a6af-f7e2e2ccbc28")>
@@ -33,3 +34,4 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyVersion("1.0.0.0")>
 <Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: NeutralResourcesLanguage("en")>
